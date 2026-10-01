@@ -1,4 +1,4 @@
-# Business intelligence and machine learning notebooks
+# Machine Learning Notebooks
 
 A set of notebooks I use as a reference for analysis across games, SaaS, tech and medicine. Each one works through a real business question from raw data to a decision, and explains the reasoning along the way.
 
